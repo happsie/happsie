@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @happsie
+- 💼 I'm working as a software developer since 5 years in the FinTech sector
 - 👀 I’m interested in Java, Go and Frontend
-- 🌱 I’m currently learning React, vue and Node
+- 🌱 I’m currently learning javascript
