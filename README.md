@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @happsie
-- 💼 I have worked as a developer for 5 years in the FinTech sector
-- 👀 I’m interested in Java, Go and Vue/React
+- 💼 I have worked as a developer for 5 years
+- 👀 I’m interested in Java, Go, React, Vue, Svelte
 - 🌱 I’m currently learning more Javascript
