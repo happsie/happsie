@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @happsie
-- 💼 I have worked as a developer for 5 years
-- 👀 I’m interested in Java, Go, React, Vue, Svelte
-- 🌱 I’m currently learning more Javascript
+- 💼 I have worked as a developer for over 5 years
+- 👀 I’m proficient in Java, Go, Kotlin, Javascript, Python, Typescript, React, Vue, Svelte
+- 🌱 I’m currently learning machine learning and data science
