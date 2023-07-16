@@ -7,10 +7,10 @@
 
 ## Frontend
 
-<img alt="css" width="26px" src="images/css_64x64.png" style="padding-right:10px;" />
-<img alt="html" width="26px" src="images/html_64x64.png" style="padding-right:10px;" />
-<img alt="javascript" width="26px" src="images/javascript_64x64.png" style="padding-right:10px;" />
-<img alt="typescript" width="26px" src="images/typescript_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="css" width="26px" src="images/css_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="html" width="26px" src="images/html_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="javascript" width="26px" src="images/javascript_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="typescript" width="26px" src="images/typescript_64x64.png" style="padding-right:10px;" />
 
 ## Backend
 
