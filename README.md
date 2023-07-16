@@ -32,6 +32,6 @@
 	<img alt="svelte" width="26px" src="images/svelte.png" style="padding-right:10px;" />
 </div>
 
-<h2>⚡ GitHub Stats</h2>
+<h2>⚡ GitHub Stats (public repos)</h2>
 
 <img alt="Happsies's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Happsie&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" style="padding: 1em 0 1em 0;"/>
