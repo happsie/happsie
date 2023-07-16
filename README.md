@@ -14,17 +14,17 @@
 
 ## Backend
 
-<img alt="go" width="26px" src="images/go_64x64.png" style="padding-right:10px;" />
-<img alt="java" width="26px" src="images/java_64x64.png" style="padding-right:10px;" />
-<img alt="kotlin" width="26px" src="images/kotlin_64x64.png" style="padding-right:10px;" />
-<img alt="python" width="26px" src="images/python_64x64.png" style="padding-right:10px;" />
-<img alt="php" width="26px" src="images/php_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="go" width="26px" src="images/go_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="java" width="26px" src="images/java_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="kotlin" width="26px" src="images/kotlin_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="python" width="26px" src="images/python_64x64.png" style="padding-right:10px;" />
+<img align="left" alt="php" width="26px" src="images/php_64x64.png" style="padding-right:10px;" />
 
 ## Frameworks/Libraries
 
-<img alt="react" width="26px" src="images/react.png" style="padding-right:10px;" />
-<img alt="svelte" width="26px" src="images/svelte.png" style="padding-right:10px;" />
+<img align="left" alt="react" width="26px" src="images/react.png" style="padding-right:10px;" />
+<img align="left" alt="svelte" width="26px" src="images/svelte.png" style="padding-right:10px;" />
 
 ## ⚡ GitHub Stats
 
-<img alt="Happsies's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Happsie&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
+<img align="left" alt="Happsies's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Happsie&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
