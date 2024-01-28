@@ -2,7 +2,7 @@
 
 <ul>
 	<li>🇸🇪 From Sweden</li>
-	<li>💼 I have worked as a fullstack developer for over 5 years</li>
+	<li>💼 I have worked as a fullstack developer for over 6 years</li>
 	<li>🌱 I’m currently learning machine learning and data science</li>
 </ul>
 
