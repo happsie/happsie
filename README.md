@@ -1,31 +1,35 @@
-<h1>👋 Hi, I’m happsie</h1>
+![👋 Hi, my name is Happsie](https://scrimba.com/articles/content/images/size/w2000/2022/08/Coding-or-Programming_-What-Is-the-Difference_-main-1.png)
 
-<ul>
-	<li>🇸🇪 From Sweden</li>
-	<li>💼 I have worked as a fullstack developer for over 6 years</li>
-	<li>🌱 I’m currently learning machine learning and data science</li>
-</ul>
+![Profile views](https://komarev.com/ghpvc/?username=happsie&label=Profile%20views&color=0e75b6&style=flat)
 
-<h2>Frontend</h2>
-
-<div style="display: flex; padding: 1em 0 1em 0;">
-	<img alt="css" width="26px" src="images/css_64x64.png" style="padding-right:10px;" />
-	<img alt="html" width="26px" src="images/html_64x64.png" style="padding-right:10px;" />
-	<img alt="javascript" width="26px" src="images/javascript_64x64.png" style="padding-right:10px;" />
-	<img alt="typescript" width="26px" src="images/typescript_64x64.png" style="padding-right:10px;" />
-	<img alt="react" width="26px" src="images/react.png" style="padding-right:10px;" />
-	<img alt="svelte" width="26px" src="images/svelte.png" style="padding-right:10px;" />
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Happsie
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<h2>Backend</h2>
+ **<h3 align="left">🚀 Fullstack developer working in FinTech sector. Interested in all things coding, architecture and open source</h3>**
 
-<div style="display: flex; padding: 1em 0 1em 0;">
-	<img alt="go" width="26px" src="images/go_64x64.png" style="padding-right:10px;" />
-	<img alt="java" width="26px" src="images/java_64x64.png" style="padding-right:10px;" />
-	<img alt="kotlin" width="26px" src="images/kotlin_64x64.png" style="padding-right:10px;" />
-	<img alt="python" width="26px" src="images/python_64x64.png" style="padding-right:10px;" />
-	<img alt="php" width="26px" src="images/php_64x64.png" style="padding-right:10px;" />
-</div>
+**<h3 align="left">Rapid Fire</h3>**
+
+- 🌱 I'm currently learning: **📚 Machine Learning & DevOps**
+- 💬 Ask me about: **💡 Typescript, React, Go, Java, Kotlin, PostgresQL, Kafka, Kubernetes, Docker**
+- ⚡ Fun fact: **🎢 I try to contribute to open source whenever I can**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=go" height="32" alt="Go" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=java" height="32" alt="Java" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=kotlin" height="32" alt="Kotlin" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=lua" height="32" alt="Lua" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=graphql" height="32" alt="Graphql" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=htmx" height="32" alt="HTMX" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=php" height="32" alt="PHP" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=happsie&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+</p>
+
 
 <h2>⚡ GitHub Stats (public repos)</h2>
 
