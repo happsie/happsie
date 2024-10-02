@@ -30,7 +30,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=happsie&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
 </p>
 
-
-<h2>⚡ GitHub Stats (public repos)</h2>
-
 <img alt="Happsies's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Happsie&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black&hide=Jupyter%20Notebook" style="padding: 1em 0 1em 0;"/>
